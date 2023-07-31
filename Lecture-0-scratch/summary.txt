@@ -1,0 +1,9 @@
+This course, beyond programming, aims to foster problem-solving skills. It begins with an introduction to Scratch, a visual programming language, and proceeds with the exploration of C, algorithms, memory management, debugging, data structures, and Python. It also delves into web application development.
+
+The course covers the processes involved in computer programming, including the translation of inputs into outputs, which encompasses counting systems like unary and binary. It discusses the representation of numbers and letters in binary form and standards like ASCII and Unicode, the latter of which has evolved to include emojis and personalized features.
+
+The class delves into the representation of colors through the Red, Green, and Blue (RGB) combination, as well as the digital format of images, videos, and music. It introduces the concept of algorithms as problem-solving strategies in computer science, highlighting different levels of efficiency using big-O notation.
+
+The course presents the importance of pseudocode in planning programming logic and communication, and Scratch is used to illustrate these programming building blocks. The course demonstrates how Scratch can simplify complex problems, and discusses key concepts like conditionals and abstraction.
+
+Lastly, through interactive programs and games in Scratch, learners can practice their skills and understand concepts like sprite movement and interactions. The course not only teaches the fundamentals of programming and computer science but also provides hands-on experience, making it suitable even for those without prior coding experience.
